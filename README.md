@@ -2,7 +2,7 @@
 
 **Wokwi project:** https://wokwi.com/projects/478318137608226817  
 **Code:** `sketch.ino`  
-**Demo recording:** <img width="1089" height="583" alt="image" src="https://github.com/user-attachments/assets/ac2914a6-c934-49d9-bb77-ae2ed2612d99" />  
+**Demo recording:** https://youtu.be/N6n60PN4R2g 
 
 ## What it does
 
