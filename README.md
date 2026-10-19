@@ -1,8 +1,8 @@
 # RoboDog Level 2: Gait Sequencer with Tilt Balance
 
-**Wokwi project:** https://wokwi.com/projects/478318137608226817
-**Code:** `sketch.ino`
-**Demo recording:** 
+**Wokwi project:** https://wokwi.com/projects/478318137608226817  
+**Code:** `sketch.ino`  
+**Demo recording:** <img width="1089" height="583" alt="image" src="https://github.com/user-attachments/assets/ac2914a6-c934-49d9-bb77-ae2ed2612d99" />  
 
 ## What it does
 
